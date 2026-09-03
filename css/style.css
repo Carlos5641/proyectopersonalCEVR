@@ -7,6 +7,10 @@
     color:blue 
 }
 
+.nombre{
+    text-align: center;
+}
+
 .tablaPrincipal{
     margin: auto;
     margin-top: 200px;
@@ -22,4 +26,15 @@
     text-align: center;
     color: rgb(88, 88, 89);
     margin-top: 100px;
+}
+
+.foto {
+    text-align: center;  
+    margin: 20px 0;     
+}
+
+.foto img {
+    width: 250px;        
+    height: auto;      
+    border-radius: 10px;  
 }

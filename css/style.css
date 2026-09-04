@@ -38,3 +38,27 @@
     height: auto;      
     border-radius: 10px;  
 }
+
+/* Estilos para el contenido de las páginas */
+.content {
+    text-align: center;
+    margin-top: 30px;
+    font-family: Arial, sans-serif;
+}
+
+.content h2 {
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+.content h3 {
+    color: #444444;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.content p {
+    color: #555555;
+    line-height: 1.6;
+    margin: 6px 0;
+}
